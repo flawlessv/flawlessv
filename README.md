@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github.com/flawlessv.png?size=200" alt="Profile Avatar" />
+<img src="https://imgchr.com/i/pZsKr6J" alt="Profile Avatar" />
 </td>
 <td width="50%">
 Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sign.
@@ -17,7 +17,8 @@ Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sig
 </tr>
 </table>
 
-[🌸 Visit My Blog](https://your-blog-url.com)
+[🌸 Visit My Blog](http://powder.icu/)
+<img src="https://imgchr.com/i/pZsKRk6" alt="Profile Avatar" />
 
 ### 💭 What I Do
 
