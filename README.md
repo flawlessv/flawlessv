@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I'm+FlawlessV;Frontend+Developer;Open+Source+Enthusiast;INFJ+♎+Libra" alt="Typing SVG" />
 </div>
+
 ## 🚀 About Me
 
 <div align="center">
@@ -13,7 +14,7 @@
 
 Frontend Developer | INFJ | ♎ Libra
 
-[📧 Email](mailto:871602699@qq.com) · [💬 WeChat](mailto:871602699@qq.com) · [🌸 Blog](http://powder.icu/)
+📧 871602699@qq.com · 💬 spring_broken_0707 · 🌸 [powder.icu](http://powder.icu/)
 
 </div>
 
@@ -36,7 +37,7 @@ Frontend Developer | INFJ | ♎ Libra
 | :---: | :--- | :--- | :--- |
 | 1 | 2024.07 - Present | **Xiaomi** | Frontend Developer |
 | 2 | 2024.01 - 2024.04 | **DuiBa** | Frontend Intern |
-| 3 | 2023.06 - 2023.12 | **eSign** | Frontend Developer |
+| 3 | 2023.06 - 2023.12 | **eSign** | Frontend Intern |
 
 <!-- ## 📈 Activity Graph
 
