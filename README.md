@@ -12,7 +12,7 @@
 <img src="https://github.com/flawlessv.png?size=200" alt="Profile Avatar" />
 </td>
 <td width="50%">
-我是 FlawlessV，一枚 INFJ 天秤座的前端开发工程师
+Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sign.
 </td>
 </tr>
 </table>
@@ -21,10 +21,10 @@
 
 ### 💭 What I Do
 
-- 💻 **前端探索** - 深耕前端技术栈，打磨交互体验与工程化实践，在技术落地中持续探索创新解法
-- 🤖 **AI学习与实践** - 拥抱Vibe Coding，探索人机协作的无限可能，了解Prompt工程、RAG、LLM、Agent等
-- 📜 **古诗词探索** - 偏爱古典诗词文化，在平仄韵律中感受文字之美
-- 🎵 **音乐之旅** - 喜欢听各种各样的音乐
+- 💻 **Frontend Development** - Passionate about building modern web applications with React and JavaScript, focusing on clean code and exceptional user experiences
+- 🤖 **AI Exploration** - Embracing Vibe Coding and the future of human-AI collaboration, exploring Prompt Engineering, RAG, LLMs, and Agents
+- 📜 **Classical Poetry** - Appreciating the beauty of Chinese classical poetry and the wisdom within its rhymes
+- 🎵 **Music Enthusiast** - Finding inspiration in diverse genres, especially Post-Rock and Electronic music
 
 
 ## 🛠️ Tech Stack
@@ -90,7 +90,7 @@
 
 
 <div align="center">
-  <i>💡 "永言配命，莫向外求。"</i>
+  <i>💡 "The answer lies within."</i>
 </div>
 
 
