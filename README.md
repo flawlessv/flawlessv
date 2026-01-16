@@ -4,7 +4,14 @@
 
 ## 🚀 About Me
 
-<img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="100" style="border-radius: 50%; float: left; margin-right: 20px;" />
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://imgchr.com/i/pZsKr6J">
+<img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="100" style="border-radius: 50%;" />
+</a>
+</td>
+<td>
 
 **Hi, I'm FlawlessV** 👋
 
@@ -12,7 +19,9 @@ Frontend Developer | INFJ | ♎ Libra
 
 📧 871602699@qq.com · 💬 spring_broken_0707 · 🌸 [powder.icu](http://powder.icu/)
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ### 💭 What I Do
 - 💻 **Frontend Development** - Passionate about building modern React/JS web apps with clean code and great UX.
