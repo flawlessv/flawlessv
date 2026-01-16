@@ -9,9 +9,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://imgchr.com/i/pZsKr6J" alt="Profile Avatar" />
+<a href="https://imgchr.com/i/pZsKr6J"><img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="pZsKr6J.jpg" border="0" /></a>
 </td>
 <td width="50%">
+
 Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sign.
 </td>
 </tr>
@@ -49,6 +50,17 @@ Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sig
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
+## 🔥 Featured Repositories
+
+<div align="center">
+
+<!-- 修复图片链接，去掉多余的外链包裹 -->
+<a href="https://github.com/flawlessv/Spring-Broken-AI-Blog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flawlessv&repo=Spring-Broken-AI-Blog&theme=blueberry&hide_border=true&bg_color=0D1117&icon_color=2F81F7&title_color=2F81F7&text_color=C9D1D9" alt="Spring-Broken-AI-Blog" />
+</a>
+
+</div>
+
 ## 💼 Work Experience
 
 |  | 📅 | 🏢 | 👔 |
@@ -67,8 +79,8 @@ Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sig
 
 <div align="center">
 
-**📧 Email**: [your.email@example.com](mailto:your.email@example.com)
-**💬 WeChat**: your-wechat-id
+**📧 Email**: [871602699@qq.com](mailto:your.email@example.com)
+**💬 WeChat**: spring_broken_0707
 
 </div>
 
