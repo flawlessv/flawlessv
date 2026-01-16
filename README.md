@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="150">
 <a href="https://imgchr.com/i/pZsKr6J">
@@ -39,7 +39,7 @@ Frontend Developer | INFJ | ♎ Libra
 ## 💼 Work Experience
 
 |  | 📅 | 🏢 | 👔 |
-| :---: | :--- | :--- | :--- |
+| :---: | :---: | :---: | :--- |
 | 1 | 2024.07 - Present | **Xiaomi** | Frontend Developer |
 | 2 | 2024.01 - 2024.04 | **DuiBa** | Frontend Intern |
 | 3 | 2023.06 - 2023.12 | **eSign** | Frontend Intern |
