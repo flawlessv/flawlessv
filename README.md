@@ -9,17 +9,18 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://imgchr.com/i/pZsKr6J"><img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="pZsKr6J.jpg" border="0" /></a>
+<a href="https://imgchr.com/i/pZsKr6J"><img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="pZsKr6J.jpg" border="0" width="200" /></a>
 </td>
 <td width="50%">
-
 Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sign.
+**📧 Email**: [871602699@qq.com](mailto:your.email@example.com)
+**💬 WeChat**: spring_broken_0707
 </td>
 </tr>
 </table>
 
 [🌸 Visit My Blog](http://powder.icu/)
-<img src="https://imgchr.com/i/pZsKRk6" alt="Profile Avatar" />
+
 ### 💭 What I Do
 - 💻 **Frontend Development** - Passionate about building modern web applications with React and JavaScript, focusing on clean code and exceptional user experiences
 - 🤖 **AI Exploration** - Embracing Vibe Coding and the future of human-AI collaboration, exploring Prompt Engineering, RAG, LLMs, and Agents
@@ -46,24 +47,10 @@ Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sig
 | 2 | 2024.01 - 2024.04 | **DuiBa** | Frontend Intern |
 | 3 | 2023.06 - 2023.12 | **eSign** | Frontend Developer |
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flawlessv&theme=react-dark&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFB86C&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 📬 Connect With Me
-
-<div align="center">
-
-**📧 Email**: [871602699@qq.com](mailto:your.email@example.com)
-**💬 WeChat**: spring_broken_0707
-
-</div>
-
-<br>
-<div align="center">
-  <i>💡 "The answer lies within."</i>
-</div>
+</div> -->
 
 
