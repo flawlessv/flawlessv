@@ -4,14 +4,7 @@
 
 ## 🚀 About Me
 
-<table width="100%">
-<tr>
-<td align="center" width="150">
-<a href="https://imgchr.com/i/pZsKr6J">
-  <img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="120" style="border-radius: 50%;" />
-</a>
-</td>
-<td>
+<img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="100" style="border-radius: 50%; float: left; margin-right: 20px;" />
 
 **Hi, I'm FlawlessV** 👋
 
@@ -19,9 +12,7 @@ Frontend Developer | INFJ | ♎ Libra
 
 📧 871602699@qq.com · 💬 spring_broken_0707 · 🌸 [powder.icu](http://powder.icu/)
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ### 💭 What I Do
 - 💻 **Frontend Development** - Passionate about building modern React/JS web apps with clean code and great UX.
@@ -38,11 +29,15 @@ Frontend Developer | INFJ | ♎ Libra
 
 ## 💼 Work Experience
 
+<div align="center">
+
 |  | 📅 | 🏢 | 👔 |
-| :---: | :---: | :---: | :--- |
+| :---: | :---: | :---: | :---: |
 | 1 | 2024.07 - Present | **Xiaomi** | Frontend Developer |
 | 2 | 2024.01 - 2024.04 | **DuiBa** | Frontend Intern |
 | 3 | 2023.06 - 2023.12 | **eSign** | Frontend Intern |
+
+</div>
 
 <!-- ## 📈 Activity Graph
 
