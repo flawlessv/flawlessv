@@ -6,22 +6,25 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-![Profile Avatar](https://github.com/flawlessv.png?size=200)
-
-</div>
-
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/flawlessv.png?size=200" alt="Profile Avatar" />
+</td>
+<td width="50%">
 我是 FlawlessV，一枚 INFJ 天秤座的前端开发工程师
+</td>
+</tr>
+</table>
 
 [🌸 Visit My Blog](https://your-blog-url.com)
 
 ### 💭 What I Do
 
-- 💻 前端探索 - 深耕前端技术栈，打磨交互体验与工程化实践，在技术落地中持续探索创新解法
-- 🤖 AI 学习与实践 - 拥抱 Vibe Coding，探索人机协作的无限可能，了解 Prompt 工程、- RAG、LLM、Agent 等
-📜 古诗词探索 - 偏爱古典诗词文化，在平仄韵律中感受文字之美
-🎵 音乐之旅 - 喜欢听各种各样的音乐
+- 💻 **前端探索** - 深耕前端技术栈，打磨交互体验与工程化实践，在技术落地中持续探索创新解法
+- 🤖 **AI学习与实践** - 拥抱Vibe Coding，探索人机协作的无限可能，了解Prompt工程、RAG、LLM、Agent等
+- 📜 **古诗词探索** - 偏爱古典诗词文化，在平仄韵律中感受文字之美
+- 🎵 **音乐之旅** - 喜欢听各种各样的音乐
 
 
 ## 🛠️ Tech Stack
@@ -47,32 +50,11 @@
 
 ## 💼 Work Experience
 
-<div align="center">
-
 |  | 📅 | 🏢 | 👔 |
-| :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- |
 | 1 | 2024.07 - Present | **Xiaomi** | Frontend Developer |
 | 2 | 2024.01 - 2024.04 | **DuiBa** | Frontend Intern |
 | 3 | 2023.06 - 2023.12 | **eSign** | Frontend Developer |
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flawlessv&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&icon_color=2F81F7&title_color=2F81F7&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawlessv&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessv&theme=blueberry&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FFB86C&currStreakLabel=2F81F7" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flawlessv&theme=onestar&no-bg=true&no-frame=true&margin-w=20" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Activity Graph
 
@@ -106,22 +88,9 @@
   </a>
 </div>
 
-## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flawlessv/flawlessv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flawlessv/flawlessv/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flawlessv/flawlessv/output/github-contribution-grid-snake.svg">
-  </picture>
+  <i>💡 "永言配命，莫向外求。"</i>
 </div>
 
----
 
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=flawlessv&icon=0&color=2&theme=blueberry" alt="Profile Views" />
-</div>
