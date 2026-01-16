@@ -1,25 +1,21 @@
-# Hi there! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I'm+FlawlessV;Frontend+Developer;Open+Source+Enthusiast;INFJ+♎+Libra" alt="Typing SVG" />
 </div>
-
 ## 🚀 About Me
-
 <table>
 <tr>
 <td align="center" width="50%">
 <a href="https://imgchr.com/i/pZsKr6J"><img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="pZsKr6J.jpg" border="0" width="200" /></a>
 </td>
 <td width="50%">
-Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sign.
-**📧 Email**: [871602699@qq.com](mailto:your.email@example.com)
-**💬 WeChat**: spring_broken_0707
+<strong>Hi, I'm FlawlessV</strong><br>
+Frontend Developer | INFJ | Libra<br><br>
+📧 [871602699@qq.com](mailto:871602699@qq.com)<br>
+💬 spring_broken_0707<br>
+🌸 [Blog](http://powder.icu/)
 </td>
 </tr>
 </table>
-
-[🌸 Visit My Blog](http://powder.icu/)
 
 ### 💭 What I Do
 - 💻 **Frontend Development** - Passionate about building modern web applications with React and JavaScript, focusing on clean code and exceptional user experiences
@@ -29,15 +25,10 @@ Hi, I'm FlawlessV, a frontend developer with INFJ personality and Libra star sig
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?logo=anthropic&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-CC785C?logo=anthropic&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?logo=openai&logoColor=white)
 
 ## 💼 Work Experience
 
