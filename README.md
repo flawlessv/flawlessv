@@ -2,24 +2,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I'm+FlawlessV;Frontend+Developer;Open+Source+Enthusiast;INFJ+♎+Libra" alt="Typing SVG" />
 </div>
 ## 🚀 About Me
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://imgchr.com/i/pZsKr6J"><img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="pZsKr6J.jpg" border="0" width="200" /></a>
-</td>
-<td width="50%">
-<strong>Hi, I'm FlawlessV</strong><br>
-Frontend Developer | INFJ | Libra<br><br>
-📧 [871602699@qq.com](mailto:871602699@qq.com)<br>
-💬 spring_broken_0707<br>
-🌸 [Blog](http://powder.icu/)
-</td>
-</tr>
-</table>
+
+<div align="center">
+
+<a href="https://imgchr.com/i/pZsKr6J">
+  <img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="120" style="border-radius: 50%;" />
+</a>
+
+**Hi, I'm FlawlessV** 👋
+
+Frontend Developer | INFJ | ♎ Libra
+
+[📧 Email](mailto:871602699@qq.com) · [💬 WeChat](mailto:871602699@qq.com) · [🌸 Blog](http://powder.icu/)
+
+</div>
 
 ### 💭 What I Do
-- 💻 **Frontend Development** - Passionate about building modern web applications with React and JavaScript, focusing on clean code and exceptional user experiences
-- 🤖 **AI Exploration** - Embracing Vibe Coding and the future of human-AI collaboration, exploring Prompt Engineering, RAG, LLMs, and Agents
+- 💻 **Frontend Development** - Passionate about building modern React/JS web apps with clean code and great UX.
+- 🤖 **AI Exploration** - Embrace Vibe Coding & human-AI collaboration, explore Prompt Engineering, RAG, LLMs & Agents.
 - 📜 **Classical Poetry** - Appreciating the beauty of Chinese classical poetry and the wisdom within its rhymes
 - 🎵 **Music Enthusiast** - Finding inspiration in diverse genres, especially Post-Rock and Electronic music
 
