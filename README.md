@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I'm+FlawlessV;Frontend+Developer;Open+Source+Enthusiast;INFJ+♎+Libra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=I'm+FlawlessV;Frontend+Developer;Open+Source+Enthusiast;INFJ+♎+Libra" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-<div align="center">
-
+<table>
+<tr>
+<td align="center" width="150">
 <a href="https://imgchr.com/i/pZsKr6J">
   <img src="https://s41.ax1x.com/2026/01/16/pZsKr6J.jpg" alt="FlawlessV" width="120" style="border-radius: 50%;" />
 </a>
+</td>
+<td>
 
 **Hi, I'm FlawlessV** 👋
 
@@ -16,7 +19,9 @@ Frontend Developer | INFJ | ♎ Libra
 
 📧 871602699@qq.com · 💬 spring_broken_0707 · 🌸 [powder.icu](http://powder.icu/)
 
-</div>
+</td>
+</tr>
+</table>
 
 ### 💭 What I Do
 - 💻 **Frontend Development** - Passionate about building modern React/JS web apps with clean code and great UX.
